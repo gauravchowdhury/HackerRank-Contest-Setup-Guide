@@ -18,7 +18,7 @@ HackerRank’s setup flow can sometimes be under-documented or confusing. This g
 
 - Click on your **Profile Icon** → go to **Administration**.
   
-- Navigate to **Manage Challenges** to create a new challenge → See [Challenge Setup](#challenge-setup).
+- Navigate to **Manage Challenges** to create a new challenge (only do this if the challenge does not exist in HackerRank library) → See [Challenge Setup](#challenge-setup).
   
 - Then go to **Manage Contests** to create a new contest → See [Contest Setup](#contest-setup).
 
