@@ -4,7 +4,7 @@ This repository documents a reproducible, modular workflow for organising progra
 
 ## Why This Exists
 
-HackerRank’s setup flow can sometimes be under-documented or confusing. This guide captures refined steps to make contest creation and administration easier — — including the use of AI for test case generation and sanity checks.
+HackerRank’s setup flow can sometimes be under-documented or confusing. This guide captures refined steps to make contest creation and administration easier — including the use of AI for test case generation and sanity checks.
 
 ## Contest Creation Workflow
 
