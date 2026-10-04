@@ -150,19 +150,19 @@ To tailor this script to your specific challenge:
   
 - To generate problem-specific code stubs, follow these steps:
 
-1. Visit the [Code Stub Generator Gist](https://gist.github.com/Shafaet/86afa48a54ae1d5dc46fa80542d7b10a).
-   
-2. Copy the link into an AI tool along with your **problem details** (metadata, input/output format, constraints).
-   
-3. Ask the AI to produce **domain-specific language (DSL) code stubs** tailored to your problem.
-   
-4. Review and adjust the generated stubs if necessary, ensuring:
-   
-   - Correct input/output handling
+  1. Visit the [Code Stub Generator Gist](https://gist.github.com/Shafaet/86afa48a54ae1d5dc46fa80542d7b10a).
      
-   - Matching the problem’s test cases
+  2. Copy the link into an AI tool along with your **problem details** (metadata, input/output format, constraints).
      
-   - Appropriate comments and placeholders for participants to implement their logic
+  3. Ask the AI to produce **domain-specific language (DSL) code stubs** tailored to your problem.
+     
+  4. Review and adjust the generated stubs if necessary, ensuring:
+     
+     - Correct input/output handling
+       
+     - Matching the problem’s test cases
+       
+     - Appropriate comments and placeholders for participants to implement their logic
 
 > This approach saves time and ensures consistency across multiple programming languages.
 
@@ -254,10 +254,8 @@ After the contest concludes, collect and analyse results for scoring, feedback, 
 
 ### 2. Process Leaderboard & Submission Logs
 
-- **Reorder leaderboard** in descending order by score.
+- **Reorder leaderboard** in descending order by score (by default, participants with the same score may have the same rank; reordering ensures proper ranking).
   
-  > By default, participants with the same score may have the same rank; reordering ensures proper ranking.
-   
 - **Filter submission logs** to remove any submissions made **after the contest duration**.
   
 - Verify the correctness of submissions and handle edge cases or constraint violations.
